@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="bcPro Foundation" />
+        <Header title="GiveLotus Vietnam" />
         <p className="description">
           Welcome to GiveLotus2VN Website!
         </p>
